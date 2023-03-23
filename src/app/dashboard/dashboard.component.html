@@ -1,0 +1,20 @@
+<ng-container *ngIf="data">
+    <div class="card card-alignment" style="width: 18rem;">
+    <img src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).webp" class="card-img-top" alt="profile_picture">
+    <div class="card-body">
+      <h5 class="card-title">{{ data.firstname }}</h5>
+      <p class="card-text">Welcome to the dashboard. You can manage your tasks and view your schedule here.</p>
+    </div>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">{{data.firstname}} {{data.lastname}}</li>
+      <li class="list-group-item">{{ data.email }}</li>
+      <!-- <li class="list-group-item">A third item</li> -->
+    </ul>
+    <div class="card-body">
+      <a href="#" class="card-link" routerLink="/logout" routerLinkActive="active">Logout</a>
+      <a href="#" class="card-link">Another link</a>
+    </div>
+  </div>
+  
+    <p></p>
+  </ng-container>

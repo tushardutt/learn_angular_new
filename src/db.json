@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "password": "abcdef",
+      "firstname": "Aakash",
+      "lastname": "Singh",
+      "email": "ak@test.com"
+    },
+    {
+      "firstname": "Dinesh",
+      "lastname": "Dhakad",
+      "email": "dd@test.com",
+      "password": "asdf123",
+      "id": 5
+    },
+    {
+      "firstname": "Aniket",
+      "lastname": "Sharma",
+      "email": "as@test.com",
+      "password": "aswe123",
+      "id": 6
+    },
+    {
+      "firstname": "Naveen",
+      "lastname": "Patnaya",
+      "email": "np@test.com",
+      "password": "asqw123",
+      "id": 7
+    },
+    {
+      "firstname": "Kunal",
+      "lastname": "Bajwa",
+      "email": "kb@test.com",
+      "password": "kbdef12",
+      "id": 9
+    },
+    {
+      "firstname": "Tripti",
+      "lastname": "Sakya",
+      "email": "ts@test.com",
+      "password": "ts123de",
+      "id": 10
+    },
+    {
+      "firstname": "Manish",
+      "lastname": "Mehrot",
+      "email": "ms@test.com",
+      "password": "ms321de",
+      "id": 11
+    },
+    {
+      "firstname": "Vaibhav",
+      "lastname": "Jaiswal",
+      "email": "vs@test.com",
+      "password": "vs123de",
+      "id": 13
+    },
+    {
+      "firstname": "Sidhart",
+      "lastname": "Kapil",
+      "email": "sk@test.com",
+      "password": "sk1234",
+      "id": 14
+    },
+    {
+      "firstname": "Ashish",
+      "lastname": "Gaur",
+      "email": "ag@test.com",
+      "password": "ag1234",
+      "id": 15
+    },
+    {
+      "firstname": "Amit",
+      "lastname": "Singhal",
+      "email": "asin@test.com",
+      "password": "asin1234",
+      "id": 16
+    }
+  ]
+}
